@@ -29,12 +29,6 @@ I help develop and maintain SeeDAO's on-chain and off-chain services, including 
 
 I led development of the DAO Longtan dashboard and related services (WeChat mini program, reconciliation, and lodging admin). The dashboard frontend is in [daolongtan-homepage](https://github.com/seedao-polis/daolongtan-homepage).
 
-### [paper.codes](https://paper.codes)
-
-基于 Optimism 的去中心化文章发布与阅读器：链上版权分润、一 / 二级分销合约，以及钱包登录与内容页面。
-
-A decentralized article publisher and reader on Optimism, with on-chain copyright revenue sharing, first- and second-level distribution contracts, wallet login, and article pages.
-
 ## 联系 / Contact
 
 - Email: [young.tongyang@gmail.com](mailto:young.tongyang@gmail.com)
